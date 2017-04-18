@@ -1,4 +1,4 @@
-#Simple jQuery Checklist
+# Simple jQuery Checklist
 This plugin just control the strikethrough and state for each checklist item.
 There is no predefined HTML or CSS. You should create your own CSS.
 
